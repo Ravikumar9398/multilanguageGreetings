@@ -1,0 +1,23 @@
+.button {
+  background-color: transparent;
+  border: 2px solid #db1c48;
+  color: #db1c48;
+  width: 82px;
+  height: 32px;
+  border-radius: 16px;
+  cursor: pointer;
+}
+
+.item {
+  padding-right: 22px;
+}
+
+.active-btn {
+  background-color: #db1c48;
+  border: 0px;
+  color: #ffffff;
+  width: 82px;
+  height: 32px;
+  border-radius: 16px;
+  cursor: pointer;
+}
